@@ -7,5 +7,6 @@ end
 def take_a_number(katz_deli, name)
   for x in katz_deli
     x += 1
+  end
   puts "Welcome #{name}. You are currently number #{x} in line."
 end
