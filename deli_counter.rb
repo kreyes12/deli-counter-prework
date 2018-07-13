@@ -2,3 +2,4 @@
 
 def line(array)
   return 
+end
