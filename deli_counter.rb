@@ -5,4 +5,4 @@ def line(array)
 end
 
 def take_a_number(katz_deli, name)
-  puts name 
+  puts "Welcome #{name}. You are currently "
